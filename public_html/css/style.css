@@ -1,0 +1,76 @@
+.zmienKolor
+{
+    color: red;
+    font-size: 60px;
+    background-color: lightgreen;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+.wracaKolor
+{
+    color: black;
+    font-size: 60px;
+    background-color: green;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+body{
+    background-color: lightgray;
+    margin-left: 10%;
+    margin-right: 10%;
+    /*
+    margin-left: 100px;
+    margin-right: 100px;
+    */
+}
+.zmienWielkosc
+{
+    color: blue;
+    font-size: 40px;
+    background-color: lightskyblue;
+    
+}
+/*
+div.panel
+{
+    background-color: lightskyblue;
+    align-items: center;
+}
+*/
+/*
+.tabliczkaM
+{   
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+*/
+table, td, th {
+  border: 1px solid black;  
+  text-align: center;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.tdColor
+{
+    background-color: lightseagreen;
+}
+.tdNowyColor
+{
+    background-color: red;
+}
+#tooltip
+{
+    display: none;
+    background-color: teal;
+    position: absolute;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    line-height: 90px;
+    font-size: 50px;
+}
+
